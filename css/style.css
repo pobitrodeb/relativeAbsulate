@@ -1,0 +1,47 @@
+        /* ##### START GOBAL CSS##### */
+        
+        * {
+            margin: 0px;
+            padding: 0px;
+        }
+        
+        body {
+            margin: 0px;
+            padding: 0px;
+            background-color: #ffffff;
+        }
+        
+        .container-fluid {
+            width: 100%;
+        }
+        
+        .container {
+            max-width: 1300px;
+            margin: 0px auto;
+        }
+        
+        li {
+            list-style: none;
+        }
+        
+        a {
+            text-decoration: none;
+        }
+        /* ##### END  GOBAL CSS##### */
+.bangladesFlag{
+    height: 350px;
+    width: 1000px;
+    margin-top: 50px;
+    background-color: #006a4d;
+    position: relative;
+}
+
+.red{
+    height: 220px;
+    width: 220px;
+    background-color: #f4263f;
+    position: absolute;
+    border-radius: 150px;
+    top: 65px;
+    left: 400px;
+}
